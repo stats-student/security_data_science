@@ -1,6 +1,5 @@
 [book]
-authors = ["stats student"]
+authors = ["stats-student"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Security Data Science"
